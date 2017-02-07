@@ -1,0 +1,185 @@
+stations_name,event_date,type,am_peak,midday,pm_peak,env,sum
+Addison Road,"1/21/2017,Sat",Entry,432,601,191,135,1359
+Addison Road,"1/21/2017,Sat",Exit,86,277,574,426,1363
+Anacostia,"1/21/2017,Sat",Entry,987,1799,561,332,3679
+Anacostia,"1/21/2017,Sat",Exit,228,810,1419,887,3344
+Archives/Navy Memorial,"1/21/2017,Sat",Entry,136,28,255,1259,1678
+Archives/Navy Memorial,"1/21/2017,Sat",Exit,6066,4537,231,244,11078
+Arlington Cemetery,"1/21/2017,Sat",Entry,42,1720,2948,0,4710
+Arlington Cemetery,"1/21/2017,Sat",Exit,181,2451,543,0,3175
+Ballston,"1/21/2017,Sat",Entry,3906,4360,771,549,9586
+Ballston,"1/21/2017,Sat",Exit,494,1995,5034,1420,8943
+Benning Road,"1/21/2017,Sat",Entry,410,735,276,144,1565
+Benning Road,"1/21/2017,Sat",Exit,100,228,620,373,1321
+Bethesda,"1/21/2017,Sat",Entry,5133,6881,851,793,13658
+Bethesda,"1/21/2017,Sat",Exit,273,2866,9695,1706,14540
+Braddock Road,"1/21/2017,Sat",Entry,4512,2114,280,175,7081
+Braddock Road,"1/21/2017,Sat",Exit,124,1364,4789,1101,7378
+Branch Avenue,"1/21/2017,Sat",Entry,2731,2354,276,123,5484
+Branch Avenue,"1/21/2017,Sat",Exit,136,849,3248,1093,5326
+Brookland/CUA,"1/21/2017,Sat",Entry,1809,3175,739,433,6156
+Brookland/CUA,"1/21/2017,Sat",Exit,185,1230,3151,760,5326
+Capital South,"1/21/2017,Sat",Entry,142,3884,7370,470,11866
+Capital South,"1/21/2017,Sat",Exit,9907,17375,960,209,28451
+Capitol Heights,"1/21/2017,Sat",Entry,288,433,136,75,932
+Capitol Heights,"1/21/2017,Sat",Exit,39,131,395,272,837
+Cheverly,"1/21/2017,Sat",Entry,629,1072,55,25,1781
+Cheverly,"1/21/2017,Sat",Exit,36,340,978,208,1562
+Clarendon,"1/21/2017,Sat",Entry,1719,1500,500,554,4273
+Clarendon,"1/21/2017,Sat",Exit,499,1443,2661,699,5302
+Cleveland Park,"1/21/2017,Sat",Entry,2693,2951,664,605,6913
+Cleveland Park,"1/21/2017,Sat",Exit,227,1365,2862,577,5031
+College Park/U of Md,"1/21/2017,Sat",Entry,3627,4650,300,161,8738
+College Park/U of Md,"1/21/2017,Sat",Exit,103,1045,5245,1807,8200
+Columbia Heights,"1/21/2017,Sat",Entry,5764,7002,2156,1721,16643
+Columbia Heights,"1/21/2017,Sat",Exit,692,3554,5007,1902,11155
+Congress Heights,"1/21/2017,Sat",Entry,268,486,234,116,1104
+Congress Heights,"1/21/2017,Sat",Exit,70,204,346,283,903
+Court House,"1/21/2017,Sat",Entry,2880,3392,560,335,7167
+Court House,"1/21/2017,Sat",Exit,612,1818,2697,808,5935
+Crystal City,"1/21/2017,Sat",Entry,4574,4742,950,587,10853
+Crystal City,"1/21/2017,Sat",Exit,253,2077,5671,1386,9387
+Deanwood,"1/21/2017,Sat",Entry,196,471,108,60,835
+Deanwood,"1/21/2017,Sat",Exit,34,135,323,167,659
+Dunn Loring,"1/21/2017,Sat",Entry,3550,3123,240,147,7060
+Dunn Loring,"1/21/2017,Sat",Exit,78,875,4395,1114,6462
+Dupont Circle,"1/21/2017,Sat",Entry,3756,5097,11663,5274,25790
+Dupont Circle,"1/21/2017,Sat",Exit,1966,4316,4650,1606,12538
+East Falls Church,"1/21/2017,Sat",Entry,4446,3659,314,161,8580
+East Falls Church,"1/21/2017,Sat",Exit,123,1319,5649,1110,8201
+Eastern Market,"1/21/2017,Sat",Entry,506,1501,3930,1418,7355
+Eastern Market,"1/21/2017,Sat",Exit,2584,3682,3257,531,10054
+Eisenhower,"1/21/2017,Sat",Entry,1509,1284,155,129,3077
+Eisenhower,"1/21/2017,Sat",Exit,35,393,1600,419,2447
+Farragut North,"1/21/2017,Sat",Entry,551,5628,23490,2014,31683
+Farragut North,"1/21/2017,Sat",Exit,1390,2466,2472,487,6815
+Farragut West,"1/21/2017,Sat",Entry,970,4904,10778,2084,18736
+Farragut West,"1/21/2017,Sat",Exit,854,2239,1195,526,4814
+Federal Center,"1/21/2017,Sat",Entry,80,4874,7848,201,13003
+Federal Center,"1/21/2017,Sat",Exit,10832,20507,293,101,31733
+Federal Triangle,"1/21/2017,Sat",Entry,3,6222,19027,841,26093
+Federal Triangle,"1/21/2017,Sat",Exit,45,6630,356,165,7196
+Foggy Bottom,"1/21/2017,Sat",Entry,3120,5328,11900,3495,23843
+Foggy Bottom,"1/21/2017,Sat",Exit,1816,4322,3415,1080,10633
+Forest Glen,"1/21/2017,Sat",Entry,3752,2447,108,93,6400
+Forest Glen,"1/21/2017,Sat",Exit,44,845,3973,678,5540
+Fort Totten Red,"1/21/2017,Sat",Entry,2654,2944,833,441,6872
+Fort Totten Red,"1/21/2017,Sat",Exit,313,1133,3636,1690,6772
+Franconia/Springfield,"1/21/2017,Sat",Entry,8500,8972,441,230,18143
+Franconia/Springfield,"1/21/2017,Sat",Exit,178,1565,11861,4233,17837
+Friendship Heights,"1/21/2017,Sat",Entry,6526,6727,1110,803,15166
+Friendship Heights,"1/21/2017,Sat",Exit,236,2960,7683,1296,12175
+Gallery Place,"1/21/2017,Sat",Entry,724,13950,39096,8233,62003
+Gallery Place,"1/21/2017,Sat",Exit,11176,38802,3861,2058,55897
+Georgia Ave/Petworth,"1/21/2017,Sat",Entry,2505,3492,732,570,7299
+Georgia Ave/Petworth,"1/21/2017,Sat",Exit,245,1187,2835,1371,5638
+Glenmont,"1/21/2017,Sat",Entry,7166,4548,279,163,12156
+Glenmont,"1/21/2017,Sat",Exit,85,1503,7244,1547,10379
+Greenbelt,"1/21/2017,Sat",Entry,9560,9074,482,228,19344
+Greenbelt,"1/21/2017,Sat",Exit,156,1713,11959,4918,18746
+Greensboro,"1/21/2017,Sat",Entry,708,543,78,55,1384
+Greensboro,"1/21/2017,Sat",Exit,33,185,677,180,1075
+Grosvenor,"1/21/2017,Sat",Entry,5688,3882,252,226,10048
+Grosvenor,"1/21/2017,Sat",Exit,65,1591,5893,1279,8828
+Huntington,"1/21/2017,Sat",Entry,6996,4470,682,279,12427
+Huntington,"1/21/2017,Sat",Exit,169,1559,7279,1995,11002
+Judiciary Square,"1/21/2017,Sat",Entry,63,5354,9968,358,15743
+Judiciary Square,"1/21/2017,Sat",Exit,16733,32399,626,110,49868
+King Street,"1/21/2017,Sat",Entry,5544,5105,1057,733,12439
+King Street,"1/21/2017,Sat",Exit,284,2089,7649,1816,11838
+L'Enfant Plaza,"1/21/2017,Sat",Entry,279,19445,25206,916,45846
+L'Enfant Plaza,"1/21/2017,Sat",Exit,36190,60727,1548,423,98888
+Landover,"1/21/2017,Sat",Entry,979,3470,89,51,4589
+Landover,"1/21/2017,Sat",Exit,40,517,3626,508,4691
+Largo Town Center,"1/21/2017,Sat",Entry,2508,2700,360,325,5893
+Largo Town Center,"1/21/2017,Sat",Exit,128,882,3920,888,5818
+McLean,"1/21/2017,Sat",Entry,1322,1100,108,48,2578
+McLean,"1/21/2017,Sat",Exit,62,396,1489,399,2346
+McPherson Sq.,"1/21/2017,Sat",Entry,1244,3840,10553,2530,18167
+McPherson Sq.,"1/21/2017,Sat",Exit,1240,3157,854,552,5803
+Medical Center,"1/21/2017,Sat",Entry,1328,1741,188,140,3397
+Medical Center,"1/21/2017,Sat",Exit,104,515,1531,238,2388
+Metro Center,"1/21/2017,Sat",Entry,887,14207,48770,5728,69592
+Metro Center,"1/21/2017,Sat",Exit,5588,18601,3682,1058,28929
+Minnesota Ave,"1/21/2017,Sat",Entry,396,707,239,137,1479
+Minnesota Ave,"1/21/2017,Sat",Exit,96,292,505,300,1193
+Morgan Boulevard,"1/21/2017,Sat",Entry,341,891,95,52,1379
+Morgan Boulevard,"1/21/2017,Sat",Exit,48,234,790,237,1309
+Mt. Vernon Sq./UDC,"1/21/2017,Sat",Entry,594,944,8065,1011,10614
+Mt. Vernon Sq./UDC,"1/21/2017,Sat",Exit,816,3514,610,615,5555
+Nation Airport,"1/21/2017,Sat",Entry,1680,3487,1308,896,7371
+Nation Airport,"1/21/2017,Sat",Exit,899,1965,2157,343,5364
+Navy Yard,"1/21/2017,Sat",Entry,1116,1456,1080,515,4167
+Navy Yard,"1/21/2017,Sat",Exit,685,1168,1715,523,4091
+Naylor Road,"1/21/2017,Sat",Entry,480,602,212,141,1435
+Naylor Road,"1/21/2017,Sat",Exit,105,287,568,330,1290
+New Carrolton,"1/21/2017,Sat",Entry,10973,8140,412,227,19752
+New Carrolton,"1/21/2017,Sat",Exit,134,2519,13672,2772,19097
+New York Avenue,"1/21/2017,Sat",Entry,1441,1835,1296,625,5197
+New York Avenue,"1/21/2017,Sat",Exit,638,1110,2151,762,4661
+Pentagon,"1/21/2017,Sat",Entry,1050,1472,449,158,3129
+Pentagon,"1/21/2017,Sat",Exit,100,860,1207,313,2480
+Pentagon City,"1/21/2017,Sat",Entry,4240,4731,2127,1261,12359
+Pentagon City,"1/21/2017,Sat",Exit,306,3989,8306,1574,14175
+Potomac Ave,"1/21/2017,Sat",Entry,590,1199,528,276,2593
+Potomac Ave,"1/21/2017,Sat",Exit,240,597,1287,488,2612
+Prince Georges Plaza,"1/21/2017,Sat",Entry,2221,3301,698,373,6593
+Prince Georges Plaza,"1/21/2017,Sat",Exit,143,1134,3152,1196,5625
+Rhode Island Ave.,"1/21/2017,Sat",Entry,1243,1985,643,342,4213
+Rhode Island Ave.,"1/21/2017,Sat",Exit,263,907,1697,681,3548
+Rockville,"1/21/2017,Sat",Entry,3534,2828,409,207,6978
+Rockville,"1/21/2017,Sat",Exit,100,954,4514,1209,6777
+Rosslyn,"1/21/2017,Sat",Entry,5039,5859,1790,842,13530
+Rosslyn,"1/21/2017,Sat",Exit,562,3120,5620,1448,10750
+Shady Grove,"1/21/2017,Sat",Entry,12558,9955,606,346,23465
+Shady Grove,"1/21/2017,Sat",Exit,194,2351,16679,4268,23492
+Shaw/Howard Univ,"1/21/2017,Sat",Entry,1432,2397,1664,822,6315
+Shaw/Howard Univ,"1/21/2017,Sat",Exit,587,2081,1627,622,4917
+Silver Spring,"1/21/2017,Sat",Entry,9585,10101,1260,967,21913
+Silver Spring,"1/21/2017,Sat",Exit,417,3748,14325,2654,21144
+Smithsonian,"1/21/2017,Sat",Entry,101,12168,18912,532,31713
+Smithsonian,"1/21/2017,Sat",Exit,3686,34657,1146,132,39621
+Southern Avenue,"1/21/2017,Sat",Entry,762,1008,358,198,2326
+Southern Avenue,"1/21/2017,Sat",Exit,162,494,944,580,2180
+Spring Hill,"1/21/2017,Sat",Entry,1266,968,137,90,2461
+Spring Hill,"1/21/2017,Sat",Exit,60,271,1123,387,1841
+Stadium Armory,"1/21/2017,Sat",Entry,6161,7802,763,281,15007
+Stadium Armory,"1/21/2017,Sat",Exit,311,1939,18306,1291,21847
+Suitland,"1/21/2017,Sat",Entry,983,1083,308,167,2541
+Suitland,"1/21/2017,Sat",Exit,120,454,1236,611,2421
+Takoma,"1/21/2017,Sat",Entry,5042,5321,424,281,11068
+Takoma,"1/21/2017,Sat",Exit,100,1835,6936,1212,10083
+Tenleytown,"1/21/2017,Sat",Entry,4450,5607,808,589,11454
+Tenleytown,"1/21/2017,Sat",Exit,287,2284,6199,978,9748
+Twinbrook,"1/21/2017,Sat",Entry,2046,1958,343,208,4555
+Twinbrook,"1/21/2017,Sat",Exit,121,698,2585,778,4182
+Tysons,"1/21/2017,Sat",Entry,2256,1741,724,550,5271
+Tysons,"1/21/2017,Sat",Exit,135,1047,2889,761,4832
+U Street/Cardozo,"1/21/2017,Sat",Entry,2527,3498,3843,2951,12819
+U Street/Cardozo,"1/21/2017,Sat",Exit,610,3161,2557,1620,7948
+Union Station,"1/21/2017,Sat",Entry,1006,6505,12349,2747,22607
+Union Station,"1/21/2017,Sat",Exit,14945,15640,4696,1678,36959
+Van Dorn Street,"1/21/2017,Sat",Entry,1831,1353,159,88,3431
+Van Dorn Street,"1/21/2017,Sat",Exit,88,456,1594,874,3012
+Van Ness,"1/21/2017,Sat",Entry,2869,3553,495,455,7372
+Van Ness,"1/21/2017,Sat",Exit,219,1228,3149,770,5366
+Vienna,"1/21/2017,Sat",Entry,11685,6681,507,218,19091
+Vienna,"1/21/2017,Sat",Exit,168,2040,13815,3701,19724
+Virginia Square,"1/21/2017,Sat",Entry,1750,1453,276,200,3679
+Virginia Square,"1/21/2017,Sat",Exit,805,939,1574,490,3808
+Waterfront,"1/21/2017,Sat",Entry,402,2423,4884,482,8191
+Waterfront,"1/21/2017,Sat",Exit,743,1324,708,488,3263
+West Falls Church,"1/21/2017,Sat",Entry,3128,2275,146,63,5612
+West Falls Church,"1/21/2017,Sat",Exit,97,772,3105,882,4856
+West Hyattsville,"1/21/2017,Sat",Entry,1398,1560,327,165,3450
+West Hyattsville,"1/21/2017,Sat",Exit,103,472,1892,1157,3624
+Wheaton,"1/21/2017,Sat",Entry,2301,2097,435,256,5089
+Wheaton,"1/21/2017,Sat",Exit,100,932,2939,827,4798
+White Flint,"1/21/2017,Sat",Entry,1976,1699,266,143,4084
+White Flint,"1/21/2017,Sat",Exit,73,669,2462,622,3826
+Wiehle Ave,"1/21/2017,Sat",Entry,9197,7639,452,201,17489
+Wiehle Ave,"1/21/2017,Sat",Exit,150,1582,10447,4591,16770
+Woodley Park/Zoo,"1/21/2017,Sat",Entry,2790,3910,1787,1187,9674
+Woodley Park/Zoo,"1/21/2017,Sat",Exit,525,1976,3423,956,6880
+SYSTEMWIDE TOTAL,"1/21/2017,Sat",Entry,254742,358173,321502,67816,1002233
+SYSTEMWIDE TOTAL,"1/21/2017,Sat",Exit,143078,370869,349864,96425,960236
