@@ -44,6 +44,12 @@ The two cleaned speadsheets (station data and system-wide totals) can be found h
 * [Inauguration-Womens-March-Records-Clean.csv](ridership-data/Inauguration-Womens-March-Records-Clean.csv)
 * [Inauguration-Womens-March-Totals.csv](ridership-data/Inauguration-Womens-March-Totals.csv)
 
+## Why are exits lower than entrances?
+
+From WMATA press office:
+
+> To safely manage crowds during periods of high volume, Metro staff occasionally opened faregates, allowing customers to exit the system faster without processing fare media. (In these cases, the cards are reset and fares are charged as a batch process.) The “entry” number is what is used for official ridership stats.
+
 ## Other files
 
 If you want to make a map of this data, you might find these shapefiles helpful.
